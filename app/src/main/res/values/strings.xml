@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SuperHero</string>
+    <string-array name="superhero_array">
+        <item>Superman (DC)</item>
+        <item>Wonder Woman (DC)</item>
+        <item>Batman (DC)</item>
+        <item>Spiderman (Marvel)</item>
+        <item>Iron Man (Marvel)</item>
+        <item>Captain America (Marvel)</item>
+    </string-array>
 </resources>
